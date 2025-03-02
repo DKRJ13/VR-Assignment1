@@ -70,7 +70,7 @@ The Jupyter notebook `part1_coin_count.ipynb` is used for this task.
    - **To visualize coins using edge detection:** Run **Block 6**  
    - **For coin segmentation:** Run **Block 7**  
    - **To get the number of coins:** Run **Block 8**
-4. Currently the results of segmentation are in segmented_coins folder and coin_detection folder contains the detections of the coins.
+4. Currently the results of segmentation are in segmented_coins folder and coin_detection folder contains the detections of the coins. Right now the results present in these files are obtained using the img2.jpeg.
 
 ---
 
