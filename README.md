@@ -88,6 +88,7 @@ Install the required libraries using:
 
 ```bash
 pip install opencv-python numpy
+pip install imutils
 ```
 
 ---
