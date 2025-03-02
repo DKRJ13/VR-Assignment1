@@ -1,8 +1,8 @@
-VR-Assignment1
+#VR-Assignment1
 
-Description
+##Description
 
-1) Image Stitching
+###1) Image Stitching
 
 
 
@@ -18,7 +18,7 @@ Finally, black borders (caused by perspective differences) are removed using dif
 
 
 
-2) Coin Edge Detection and Segmentation
+###2) Coin Edge Detection and Segmentation
    
 
 This code is used to detect, segment, and count coins using computer vision techniques.
@@ -41,7 +41,9 @@ Counting the Coins The total number of detected coins is displayed on the image 
 
 
 
-How to Use
+
+
+##How to Use
 
 For Image Stitching
 The scripts part2_stitching_method1.py and part2_stitching_method2.py stitch multiple images together to create a single panoramic image.
