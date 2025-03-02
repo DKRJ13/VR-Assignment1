@@ -1,4 +1,3 @@
-I'll format the README properly using Markdown syntax so it retains its structure when copied. Here’s the updated README:
 
 ---
 
