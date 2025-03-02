@@ -99,7 +99,7 @@ def warp_images(images, homographies):
 
     return panorama
 
-### 🏆 **Methods to Remove Black Borders** ###
+### **Methods to Remove Black Borders** ###
 def remove_black_borders(image):
     """Auto-crop the stitched image to remove black areas."""
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
