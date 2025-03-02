@@ -90,5 +90,3 @@ pip install opencv-python numpy
 ```
 
 ---
-
-This version keeps everything the same while improving formatting for readability and emphasis. Copy-paste this into your README file, and it will maintain its structure. Let me know if you need further adjustments! 🚀
